@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ersinabaci/react-vote-example.git"
+    "url": "git+https://github.com/eabaci/react-vote-example.git"
   },
   "author": "Ersin Abaci",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ersinabaci/react-vote-example/issues"
+    "url": "https://github.com/eabaci/react-vote-example/issues"
   },
-  "homepage": "https://github.com/ersinabaci/react-vote-example#readme"
+  "homepage": "https://github.com/eabaci/react-vote-example#readme"
 }
