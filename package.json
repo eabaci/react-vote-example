@@ -1,0 +1,19 @@
+{
+  "name": "react-vote-example",
+  "version": "1.0.0",
+  "description": "react vote example",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ersinabaci/react-vote-example.git"
+  },
+  "author": "Ersin Abaci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ersinabaci/react-vote-example/issues"
+  },
+  "homepage": "https://github.com/ersinabaci/react-vote-example#readme"
+}
